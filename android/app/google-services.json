@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423901167933",
+    "firebase_url": "https://flutter-app-dev-chaico-default-rtdb.firebaseio.com",
+    "project_id": "flutter-app-dev-chaico",
+    "storage_bucket": "flutter-app-dev-chaico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423901167933:android:34b33e8a74b5b197c9c554",
+        "android_client_info": {
+          "package_name": "com.tomorrowlandlatino.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423901167933-5mc002brpb1pc9r8gbueiqr4ub2e2450.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomorrowlandlatino.notifications",
+            "certificate_hash": "0434110fd1b3896f05d63555d773d9f1114e4db8"
+          }
+        },
+        {
+          "client_id": "423901167933-mkr27r2qrhpgln01jjred7dc0j3lc5ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9NCsFu6HoeuEsQCyzKYMpjr_ZUt-QMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423901167933-mkr27r2qrhpgln01jjred7dc0j3lc5ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
